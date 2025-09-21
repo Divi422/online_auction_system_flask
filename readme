@@ -1,0 +1,56 @@
+# 🛒 Bidding Web Application  
+
+## 📌 Project Overview  
+The **Bidding Web Application** is a full-stack web project developed using **Python, Flask, SQL, HTML, CSS, and JavaScript**.  
+It allows users to:  
+- Register and log in  
+- List items for bidding  
+- Place bids on items in real-time  
+- Securely manage user sessions and data  
+
+This project was built as part of my **Python Web Developer Internship at ICT Academy**, completed within **two days** with my team.  
+
+---
+
+## 🚀 Features  
+- User registration and authentication  
+- Item listing and management  
+- Real-time bidding functionality  
+- Database integration with CRUD operations  
+- Responsive frontend using HTML, CSS, and JavaScript  
+
+---
+
+## 📚 Learnings  
+Through this project, I gained hands-on experience in:  
+- Building full-stack web applications with **Flask**  
+- Designing and integrating **databases**  
+- Implementing **user authentication & session management**  
+- Debugging and optimizing performance  
+- Working collaboratively with a team under strict deadlines  
+
+---
+
+## 💡 What I Liked the Most  
+I particularly enjoyed working on the **bidding logic**, where multiple users could interact with the system in real time. Completing the project in just two days was a challenging yet rewarding experience that enhanced my **problem-solving, teamwork, and time management** skills.  
+
+---
+
+## 🛠️ Tech Stack  
+- **Backend:** Python (Flask)  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Database:** SQL (MySQL / SQLite)  
+- **Tools:** Git, VS Code  
+
+---
+
+## 📷 Screenshots  
+*(Add your project screenshots here)*  
+
+---
+
+## ⚙️ How to Run the Project  
+1. Clone this repository  
+   ```bash
+   git clone https://github.com/your-username/bidding-web-app.git
+   cd bidding-web-app
