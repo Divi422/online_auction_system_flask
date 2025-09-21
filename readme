@@ -52,5 +52,5 @@ I particularly enjoyed working on the **bidding logic**, where multiple users co
 ## ⚙️ How to Run the Project  
 1. Clone this repository  
    ```bash
-   git clone https://github.com/your-username/bidding-web-app.git
+   git clone https://github.com/Divi422/online_auction_system_flask/
    cd bidding-web-app
